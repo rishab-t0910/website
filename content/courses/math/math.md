@@ -13,7 +13,7 @@ disableAnchoredHeadings: false
 
 ---
 | Course Number | Course Name | Semester Taken |
-| :-------------| :----------:| :-------------:|
+| :-------------| :----------| :-------------|
 | MATH 561      | Theory of Probability 1| Spring 2024|
 | MATH 466      | Applied Random Processes| Fall 2023|
 | MATH 484      | Non-linear Programming | Fall 2023|
