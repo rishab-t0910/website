@@ -13,11 +13,11 @@ disableAnchoredHeadings: false
 
 ---
 ## [Monopoly Board Game Simulator](https://github.com/rishab-t0910/monopoly)
-Lanuages used: Python
+Languages used: Python
 
 Duration: February 2024
 
-The goal was to find the optimal playing strategy for multiple players for the classic Monopoly board game. I did this by simulating 1000 games with multiple players to find the return on investment of each property, proportion of occurances of each property amongst others. The entire process and relevant files can be found on the [github repository](https://github.com/rishab-t0910/monopoly).
+The goal was to find the optimal playing strategy for multiple players for the classic Monopoly board game. I did this by simulating 1000 games with multiple players to find the return on investment of each property, proportion of occurrences of each property amongst others. The entire process and relevant files can be found on the [github repository](https://github.com/rishab-t0910/monopoly).
 
 Results:
 - Chance, Community Chest, and Jail are the most landed on properties
