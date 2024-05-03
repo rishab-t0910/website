@@ -20,8 +20,6 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
   * [Statistics Coursework](https://rishab-t0910.github.io/website/courses/stats)
   * Transferred from Nanyang Technological University after May 2021
  
-![Grad photo](https://github.com/rishab-t0910/website/blob/main/static/uiuc grad.jpeg) 
-
 #### Experiences
 + Machine Learning Intern @ _FrostDefense Envirotech_, January to May 2024
 + Analytics Intern @ _Chicago Blackhawks_, June to August 2023
@@ -35,10 +33,3 @@ Software: DBT, Microsoft Excel, Snowflake, Tableau (BI)
 Python Libraries: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
 
 R Libraries: dplyr, ggplot2, tidyverse, tsa
-
-#### Extracurriculars
-I currently play rugby for UIUC Men's Rugby, and have done since entering college. 
-![Rugby Season](https://github.com/rishab-t0910/website/blob/main/static/rugby.jpeg)
-
-I also previously sered as a Lieutenant in the Singapore Army Combat Engineers. 
-![Army photo](https://github.com/rishab-t0910/website/blob/main/static/19. Sword Photo.PNG)
