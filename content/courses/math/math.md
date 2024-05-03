@@ -5,24 +5,23 @@ author: "Rishab Tirupathi"
 description: "Mathematics Courses Taken" 
 summary: "A list of mathematics courses I have taken as an undergraduate and graduate student." 
 cover:
-    image: "project1.png"
+    image: "math.jpg"
     alt: "Figure caption"
     relative: false
 showToc: true
 disableAnchoredHeadings: false
 
 ---
-## [WHO Life Expectancy](https://github.com/rishab-t0910/who_life_expectancy)
-Lanuages used: Python, R, Git
-
-Duration: March - May 2024
-
-The goal was to predict Life Expectancy based on the World Health Organization (WHO) data from 2006 - 2012. This was a project for [STAT 432: Basics of Statistical Learning](https://courses.illinois.edu/schedule/2024/spring/STAT/432) at UIUC. 
-
-For this project, I used a Random Forest (regression) and a Logistic Regression (classification) for my modelling. The entire process and relevant files can be found on the [github repository](https://github.com/rishab-t0910/who_life_expectancy).
-
-Results:
-- Random Forest was able to predict life expectancy with a Test Mean Squared Error (MSE) of 3.2212 (very good)
-- Logistic Regression with a Test Classification Error of 0.056 (also very good)
-
-Overall the modelling was a success, and it was fun to implement the skills and techniques I learned over the semester to a real life dataset. 
+| Course Number | Course Name | Semester Taken |
+| :-------------| :----------:| :-------------:|
+| MATH 561      | Theory of Probability 1| Spring 2024|
+| MATH 466      | Applied Random Processes| Fall 2023|
+| MATH 484      | Non-linear Programming | Fall 2023|
+| MATH 413      | Introduction to Combinatorics| Spring 2023|
+| MATH 441      | Differntial Equations| Fall 2022|
+| MATH 357      | Numerical Methods| Fall 2022|
+| MATH 445      | Real Analysis| Summer 2022|
+| MATH 417      | Abstract Algebra| Spring 2022|
+| MATH 482      | Linear Programming | Spring 2022|
+| MH1301      | Discrete Mathematics| Spring 2021|
+| MH1201      | Linear Algebra 2| Spring 2021|
