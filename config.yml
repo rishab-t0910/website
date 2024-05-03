@@ -1,4 +1,4 @@
-baseURL: "https://rishab-tirupathi.github.io/website/" 
+baseURL: "https://rishab-tirupathi.github.io" 
 title: Rishab Tirupathi
 paginate: 20
 theme: PaperMod
@@ -60,7 +60,7 @@ params:
           imageTitle: Rishab Tirupathi
           buttons:
             - name: About
-              url: about.md
+              url: about/
             - name: Projects
               url: projects/
             - name: Courses
