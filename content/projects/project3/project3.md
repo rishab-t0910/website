@@ -4,7 +4,7 @@ date: 2024-02
 author: "Rishab Tirupathi"
 description: "Monopoly Board Game Simulator" 
 summary: "This project looks at finding the optimal playing strategy for Monopoly through simulation." 
-cover:
+cover: 
     image: "monopoly.png"
     alt: "Figure caption"
     relative: false
