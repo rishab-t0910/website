@@ -4,6 +4,7 @@ date: 2024-05-01
 author: "Rishab Tirupathi"
 showToc: true
 disableAnchoredHeadings: false
+url: /about
 ---
 ## Hi everyone!
 
@@ -11,12 +12,13 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 
 #### Education
 + Masters of Science in Statistics @ _University of Illinois at Urbana-Champaign_, January 2024 to Present
-+ Bachelors of Science in Applied Mathematics, and Statistics @ _University of Illinois at Urbana-Champaign_, August 2020 to December 2023
++ Bachelors of Science in Applied Mathematics, and Statistics @ _University of Illinois at Urbana-Champaign_, August 2021 to December 2023
   * GPA 3.81/4.00
   * Highest Distinction for Applied Mathematics
   * Highest Distinction for Statistics
   * [Mathematics Coursework](https://rishab-t0910.github.io/website/courses/math)
   * [Statistics Coursework](https://rishab-t0910.github.io/website/courses/stats)
+  * Transferred from Nanyang Technological University after May 2021
 
 #### Experiences
 + Machine Learning Intern @ _FrostDefense Envirotech_, January to May 2024
@@ -31,3 +33,6 @@ Software: DBT, Microsoft Excel, Snowflake, Tableau (BI)
 Python Libraries: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
 
 R Libraries: dplyr, ggplot2, tidyverse, tsa
+
+#### Extracurriculars
+I currently play rugby for UIUC Men's Rugby, and have done since entering college. I also previously sered as a Lieutenant in the Singapore Army Combat Engineers. 
