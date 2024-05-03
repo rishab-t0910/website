@@ -10,8 +10,8 @@ disableAnchoredHeadings: false
 I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond! 
 
 #### Education
-+ **MS in Statistics** @ _University of Illinois at Urbana-Champaign_ January 2024 to Present
-+ **BS in Applied Mathematics, and Statistics** @ _University of Illinois at Urbana-Champaign_ August 2021 to December 2023
++ **MS in Statistics** @ _University of Illinois at Urbana-Champaign_, January 2024 to Present
++ **BS in Applied Mathematics, and Statistics** @ _University of Illinois at Urbana-Champaign_, August 2021 to December 2023
   * GPA 3.81/4.00
   * Highest Distinction for Applied Mathematics
   * Highest Distinction for Statistics
