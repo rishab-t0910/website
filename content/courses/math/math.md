@@ -12,17 +12,17 @@ showToc: true
 disableAnchoredHeadings: false
 url: /courses/math
 ---
-| Course Number | Course Name | Semester Taken |
-| :-------------| :----------| :-------------|
-| MATH 561      | Theory of Probability 1| Spring 2024|
-| MATH 466      | Applied Random Processes| Fall 2023|
-| MATH 484      | Non-linear Programming | Fall 2023|
-| MATH 413      | Introduction to Combinatorics| Spring 2023|
-| MATH 441      | Differential Equations| Fall 2022|
-| MATH 357      | Numerical Methods| Fall 2022|
-| MATH 445      | Real Analysis| Summer 2022|
-| MATH 417      | Abstract Algebra| Spring 2022|
-| MATH 482      | Linear Programming | Spring 2022|
-| MH1403        | Algorithms and Computing| Spring 2021|
-| MH1301        | Discrete Mathematics| Spring 2021|
-| MH1201        | Linear Algebra 2| Spring 2021|
+| Course Number | Course Name | Semester Taken | Grade |
+| :-------------| :----------| :-------------| |
+| MATH 561      | Theory of Probability 1| Spring 2024| TBD |
+| MATH 466      | Applied Random Processes| Fall 2023| A- |
+| MATH 484      | Non-linear Programming | Fall 2023| A|
+| MATH 413      | Introduction to Combinatorics| Spring 2023| A|
+| MATH 441      | Differential Equations| Fall 2022| A|
+| MATH 357      | Numerical Methods| Fall 2022| A|
+| MATH 445      | Real Analysis| Summer 2022| B+|
+| MATH 417      | Abstract Algebra| Spring 2022|A|
+| MATH 482      | Linear Programming | Spring 2022| A|
+| MH1403        | Algorithms and Computing| Spring 2021| B+|
+| MH1301        | Discrete Mathematics| Spring 2021| B+|
+| MH1201        | Linear Algebra 2| Spring 2021| B|
