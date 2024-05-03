@@ -11,18 +11,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Projects
+          url: projects/
           weight: 1
         - name: Courses
           url: courses/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        # - name: Data
+        #   url: data/
+        #   weight: 3 
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
 
 params:
     description: "I am a First-year MS Statistics student at University of Illinos at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
@@ -56,8 +56,8 @@ params:
           imageHeight: 160
           imageTitle: Rishab Tirupathi
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Projects
+              url: projects/
             - name: Courses
               url: courses/
             # - name: Data
