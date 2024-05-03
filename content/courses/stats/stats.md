@@ -12,16 +12,16 @@ showToc: true
 disableAnchoredHeadings: false
 url: /courses/stats
 ---
-| Course Number | Course Name | Semester Taken |
-| :-------------| :----------| :-------------|
-| STAT 525      | Computational Statistics| Spring 2024|
-| STAT 432      | Basics of Statistical Learning| Spring 2024|
-| STAT 426      | Statistical Modelling 2| Fall 2023|
-| STAT 430      | Time Series Machine Learning | Fall 2023|
-| STAT 429      | Time Series Analysis| Spring 2023|
-| STAT 385      | Statistical Programming Methods| Spring 2023|
-| STAT 433      | Stochastic Processes| Fall 2022|
-| STAT 425      | Statistical Modelling 1| Fall 2022|
-| STAT 410      | Statistics and Probability 2 | Spring 2022|
-| STAT 200      | Statistical Analysis| Spring 2022|
-| STAT 400      | Statistics and Probability 1 | Fall 2021|
+| Course Number | Course Name | Semester Taken | Grade |
+| :-------------| :----------| :-------------| :------|
+| STAT 525      | Computational Statistics| Spring 2024| TBD |
+| STAT 432      | Basics of Statistical Learning| Spring 2024| TBD |
+| STAT 426      | Statistical Modelling 2| Fall 2023| A-|
+| STAT 430      | Time Series Machine Learning | Fall 2023| A|
+| STAT 429      | Time Series Analysis| Spring 2023| A|
+| STAT 385      | Statistical Programming Methods| Spring 2023| A|
+| STAT 433      | Stochastic Processes| Fall 2022| A+|
+| STAT 425      | Statistical Modelling 1| Fall 2022| B|
+| STAT 410      | Statistics and Probability 2 | Spring 2022| A|
+| STAT 200      | Statistical Analysis| Spring 2022| A|
+| STAT 400      | Statistics and Probability 1 | Fall 2021| A|
