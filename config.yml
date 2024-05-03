@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: About
-          url: about_doc
+          url: about/about_doc
           weight: 1
         - name: Projects
           url: projects/
@@ -60,7 +60,7 @@ params:
           imageTitle: Rishab Tirupathi
           buttons:
             - name: About
-              url: about_doc
+              url: about/about_doc
             - name: Projects
               url: projects/
             - name: Courses
@@ -102,7 +102,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Rishab Tirupathi"
+      text: "Home page"
       icon: favicon.ico
       iconHeight: 18
 
