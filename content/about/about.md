@@ -26,6 +26,9 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 
 #### Skills
 Programming Languages: Git, Python, R, SQL
+
 Software: DBT, Microsoft Excel, Snowflake, Tableau (BI)
+
 Python Libraries: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
+
 R Libraries: dplyr, ggplot2, tidyverse, tsa
