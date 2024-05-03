@@ -2,7 +2,7 @@
 title: "About me"
 date: 2024-05-01
 author: "Rishab Tirupathi"
-showToc: true
+showToc: false
 disableAnchoredHeadings: false
 ---
 ## Hi everyone!
