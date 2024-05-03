@@ -5,7 +5,7 @@ author: "Rishab Tirupathi"
 description: "Statistics Courses Taken" 
 summary: "A list of statistics courses I have taken as an undergraduate and graduate student." 
 cover:
-    image: "stats.jpg"
+    image: "stats.pmg"
     alt: "Figure caption"
     relative: false
 showToc: true
