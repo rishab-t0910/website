@@ -60,21 +60,21 @@ params:
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Data
+            #   url: data/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:rishab.t0910@gmail.com
-        - name: Location
-          url: location/
+        # - name: Location
+        #   url: location/
         # - name: Office Hours
         #   url: officehours/
         # - name: Google Scholar
@@ -83,6 +83,8 @@ params:
         #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/rishab-t0910
+        - name: LinkedIn
+          url: https://LinkedIn .com/rishab-tirupathi
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: Twitter
