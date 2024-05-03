@@ -10,7 +10,7 @@ cover:
     relative: false
 showToc: true
 disableAnchoredHeadings: false
-
+url: /project/who_life_expectancy
 ---
 ## [WHO Life Expectancy](https://github.com/rishab-t0910/who_life_expectancy)
 Languages used: Python, R, Git
