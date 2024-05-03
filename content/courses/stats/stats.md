@@ -1,11 +1,11 @@
 ---
-title: "Statistics Courses Taken"
+title: "Statistics Courses taken"
 date: 2024-05-01
 author: "Rishab Tirupathi"
-description: "Statistics Courses Taken" 
+description: "Statistics Courses taken" 
 summary: "A list of statistics courses I have taken as an undergraduate and graduate student." 
 cover:
-    image: "stats.pmg"
+    image: "stats.png"
     alt: "Figure caption"
     relative: false
 showToc: true
