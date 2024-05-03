@@ -55,19 +55,19 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Rishab Tirupathi
-          # buttons:
-          #   - name: Papers
-          #     url: papers/
-          #   - name: Courses
-          #     url: courses/
-          #   - name: Data
-          #     url: data/
-          #   - name: Newsletter
-          #     url: https://pmichaillat.substack.com
-          #   - name: Tags
-          #     url: tags/
-          #   - name: Archive
-          #     url: archive/
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Newsletter
+              url: https://pmichaillat.substack.com
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
