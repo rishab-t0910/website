@@ -70,7 +70,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: static/cv.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:rishab.t0910@gmail.com
         # - name: Location
@@ -84,7 +84,7 @@ params:
         - name: GitHub
           url: https://github.com/rishab-t0910
         - name: LinkedIn
-          url: https://LinkedIn .com/rishab-tirupathi
+          url: https://www.linkedin.com/in/rishab-tirupathi
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: Twitter
