@@ -1,4 +1,17 @@
+---
+title: "WHO Life Expectancy"
+date: 2024-05
+author: "Rishab Tirupathi"
+description: "WHO Life Expectancy project" 
+summary: "Modelling WHO Life Expectancy" 
+cover:
+    image: "project1.png"
+    alt: "Figure caption"
+    relative: false
+showToc: true
+disableAnchoredHeadings: false
 
+---
 ## [WHO Life Expectancy](https://github.com/rishab-t0910/who_life_expectancy)
 Lanuages used: Python, R, Git
 
