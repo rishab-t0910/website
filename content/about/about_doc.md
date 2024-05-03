@@ -33,4 +33,4 @@ Python Libraries: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, stats
 
 R Libraries: dplyr, ggplot2, tidyverse, tsa
 
-![Rugby season](main/static/rugby.jpeg)
+![Rugby season](website/main/static/rugby.jpeg)
