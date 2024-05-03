@@ -97,7 +97,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Rishab Tirupathi"
       icon: favicon.ico
       iconHeight: 18
 
