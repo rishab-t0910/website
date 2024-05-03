@@ -5,7 +5,7 @@ author: "Rishab Tirupathi"
 showToc: false
 disableAnchoredHeadings: false
 ---
-# Hi everyone! 
+# Hi everyone!
 <img align="right" src="https://github.com/rishab-t0910/website/blob/main/static/nyc.jpeg" width="200" height="250">
 
 <p align="justify">
