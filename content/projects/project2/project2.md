@@ -10,7 +10,7 @@ cover:
     relative: false
 showToc: true
 disableAnchoredHeadings: false
-
+url: /projects/cricket_r_shiny
 ---
 ## [ODI Cricket Shiny Application](https://github.com/rishab-t0910/stat385project)
 Languages used: R, Shiny
