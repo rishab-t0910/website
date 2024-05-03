@@ -10,10 +10,8 @@ disableAnchoredHeadings: false
 <p align="justify"> 
 I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond! 
 </p>
-imageUrl: "picture.jpg"
-imageWidth: 160
-imageHeight: 160
-imageTitle: Rishab Tirupathi
+
+![New York City](static/nyc.jpeg)
 
 ### Education
 * **MS in Statistics** @ _University of Illinois at Urbana-Champaign_
