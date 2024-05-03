@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: About
-          url: about.md
+          url: about/about.md
           weight: 1
         - name: Projects
           url: projects/
@@ -60,7 +60,7 @@ params:
           imageTitle: Rishab Tirupathi
           buttons:
             - name: About
-              url: about.md
+              url: about/about.md
             - name: Projects
               url: projects/
             - name: Courses
