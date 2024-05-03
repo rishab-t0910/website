@@ -65,7 +65,7 @@ params:
               url: projects/
             - name: Courses
               url: courses/
-            # - name: Data
+            # - name: Data 
             #   url: data/
             # - name: Newsletter
             #   url: https://pmichaillat.substack.com
