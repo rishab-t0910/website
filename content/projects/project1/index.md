@@ -1,6 +1,6 @@
 ---
 title: "WHO Life Expectancy"
-date: 2024-05
+date: 2024-05-01
 author: "Rishab Tirupathi"
 description: "Modelling WHO Life Expectancy" 
 summary: "This project looks at Modelling WHO Life Expectancy through various statistical learning methods. " 
