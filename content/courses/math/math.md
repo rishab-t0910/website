@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 | MATH 466      | Applied Random Processes| Fall 2023|
 | MATH 484      | Non-linear Programming | Fall 2023|
 | MATH 413      | Introduction to Combinatorics| Spring 2023|
-| MATH 441      | Differntial Equations| Fall 2022|
+| MATH 441      | Differential Equations| Fall 2022|
 | MATH 357      | Numerical Methods| Fall 2022|
 | MATH 445      | Real Analysis| Summer 2022|
 | MATH 417      | Abstract Algebra| Spring 2022|
