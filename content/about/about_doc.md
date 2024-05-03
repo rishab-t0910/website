@@ -4,7 +4,6 @@ date: 2024-05-01
 author: "Rishab Tirupathi"
 showToc: true
 disableAnchoredHeadings: false
-url: /about
 ---
 ## Hi everyone!
 
