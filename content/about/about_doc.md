@@ -32,5 +32,3 @@ Software: DBT, Microsoft Excel, Snowflake, Tableau (BI)
 Python Libraries: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
 
 R Libraries: dplyr, ggplot2, tidyverse, tsa
-
-![Rugby season](https://github.com/rishab-t0910/website/blob/main/static/rugby.jpeg)
