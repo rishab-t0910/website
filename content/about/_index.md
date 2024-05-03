@@ -6,6 +6,7 @@ showToc: false
 disableAnchoredHeadings: false
 ---
 # Hi everyone! 
+<img src="https://github.com/rishab-t0910/website/blob/main/static/nyc.jpeg" width="200" height="200">
 
 I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond! 
 
@@ -33,6 +34,7 @@ _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, sta
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
 ### Extracurriculars
-Here is me playing rugby for UIUC, something I've been doing since starting college
+Here is me playing rugby for UIUC, something I've been doing since starting college.
+
 ![Rugby season](https://github.com/rishab-t0910/website/blob/main/static/rugby_2.jpeg)
 
