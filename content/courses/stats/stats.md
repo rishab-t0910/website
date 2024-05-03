@@ -10,7 +10,7 @@ cover:
     relative: false
 showToc: true
 disableAnchoredHeadings: false
-
+url: /courses/stats
 ---
 | Course Number | Course Name | Semester Taken |
 | :-------------| :----------| :-------------|
