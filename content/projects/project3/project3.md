@@ -1,6 +1,6 @@
 ---
 title: "Monopoly Board Game Simulator"
-date: 2024-02
+date: 2024-02-01
 author: "Rishab Tirupathi"
 description: "Monopoly Board Game Simulator" 
 summary: "This project looks at finding the optimal playing strategy for Monopoly through simulation." 
