@@ -13,7 +13,7 @@ disableAnchoredHeadings: false
 
 ---
 ## [WHO Life Expectancy](https://github.com/rishab-t0910/who_life_expectancy)
-Lanuages used: Python, R, Git
+Languages used: Python, R, Git
 
 Duration: March - May 2024
 
@@ -25,4 +25,4 @@ Results:
 - Random Forest was able to predict life expectancy with a Test Mean Squared Error (MSE) of 3.2212 (very good)
 - Logistic Regression with a Test Classification Error of 0.056 (also very good)
 
-Overall the modelling was a success, and it was fun to implement the skills and techniques I learned over the semester to a real life dataset. 
+Overall, the modelling was a success, and it was fun to implement the skills and techniques I learned over the semester to a real life dataset. 
