@@ -1,6 +1,6 @@
 ---
 title: "ODI Cricket Shiny Application"
-date: 2023-05
+date: 2023-05-01
 author: "Rishab Tirupathi"
 description: "Visualising ODI Cricket statistics" 
 summary: "This project looks at Visualising ODI Cricket statistics through Shiny in R." 
