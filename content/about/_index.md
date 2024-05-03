@@ -6,7 +6,7 @@ showToc: false
 disableAnchoredHeadings: false
 ---
 # Hi everyone! 
-<img src="https://github.com/rishab-t0910/website/blob/main/static/nyc.jpeg" width="200" height="200">
+<img align="right" src="https://github.com/rishab-t0910/website/blob/main/static/nyc.jpeg" width="200" height="250">
 
 I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond! 
 
