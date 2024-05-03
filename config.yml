@@ -25,7 +25,7 @@ menu:
         #   weight: 4
 
 params:
-    description: "I am a First-year MS Statistics student at University of Illinos at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
+    description: "I am a first-year MS Statistics student at University of Illinos at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
     author: Rishab Tirupathi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Rishab Tirupathi
-          subtitle: "I am a First-year MS Statistics student at University of Illinos at Urbana-Champaign. My fields of interest probability, stochastic processes, combinatorics, and optimization. Quite frankly, I just enjoy solving tough quantitative problems, and enjoy playing rugby."
+          subtitle: "I am a first-year MS Statistics student at University of Illinos at Urbana-Champaign. My fields of interest probability, stochastic processes, combinatorics, and optimization. Quite frankly, I just enjoy solving tough quantitative problems, and enjoy playing rugby."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
