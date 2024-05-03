@@ -13,7 +13,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 + **MS in Statistics** @ _University of Illinois at Urbana-Champaign_
   * Expected December 2025 
 + **BS in Applied Mathematics and Statistics** @ _University of Illinois at Urbana-Champaign_
-  * Graduated with double major in December 2023 with 3.81/4.00
+  * Graduated with double major in December 2023 with a GPA of 3.81/4.00
   * Highest Distinction for Applied Mathematics and Statistics
   * Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
   * Transferred from Nanyang Technological University after May 2021
@@ -31,3 +31,8 @@ _Software_: DBT, Microsoft Excel, Snowflake, Tableau (BI)
 _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
 
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
+
+### Extracurriculars
+Here is me playing rugby for UIUC, something I've been doing since starting college
+![Rugby season](https://github.com/rishab-t0910/website/blob/main/static/rugby_2.jpeg)
+
