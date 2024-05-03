@@ -10,7 +10,7 @@ disableAnchoredHeadings: false
 <p align="justify"> 
 I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond! 
 </p>
-<img align="right" width="200" height="250" src="https://github.com/rishab-t0910/website/blob/main/static/nyc.jpeg">
+<img align="right" width="200" height="250" src="nyc.jpeg">
 
 ### Education
 * **MS in Statistics** @ _University of Illinois at Urbana-Champaign_
@@ -38,5 +38,5 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 ### Extracurriculars
 Here is me playing rugby for UIUC, something I've been doing since starting college.
 
-![Rugby season](https://github.com/rishab-t0910/website/blob/main/static/rugby_2.jpeg)
+![Rugby season](rugby_2.jpeg)
 
