@@ -11,7 +11,6 @@ cover:
 showToc: true
 disableAnchoredHeadings: false
 url: /courses/math
-
 ---
 | Course Number | Course Name | Semester Taken |
 | :-------------| :----------| :-------------|
