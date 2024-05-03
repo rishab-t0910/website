@@ -11,12 +11,15 @@ taxonomies:
 
 menu:
     main:
+        - name: About
+          url: about.md
+          weight: 1
         - name: Projects
           url: projects/
-          weight: 1
+          weight: 2
         - name: Courses
           url: courses/
-          weight: 2
+          weight: 3
         # - name: Data
         #   url: data/
         #   weight: 3 
@@ -56,6 +59,8 @@ params:
           imageHeight: 160
           imageTitle: Rishab Tirupathi
           buttons:
+            - name: About
+              url: about.md
             - name: Projects
               url: projects/
             - name: Courses
