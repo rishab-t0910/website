@@ -10,7 +10,7 @@ cover:
     relative: false
 showToc: true
 disableAnchoredHeadings: false
-
+url: /projects/monopoly
 ---
 ## [Monopoly Board Game Simulator](https://github.com/rishab-t0910/monopoly)
 Languages used: Python
