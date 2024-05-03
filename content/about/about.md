@@ -16,8 +16,8 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
   * GPA 3.81/4.00
   * Highest Distinction for Applied Mathematics
   * Highest Distinction for Statistics
-  * [Mathematics Coursework]()
-  * [Statistics Coursework]()
+  * [Mathematics Coursework](https://rishab-t0910.github.io/website/courses/math/math/)
+  * [Statistics Coursework](https://rishab-t0910.github.io/website/courses/stats/stats/)
 
 #### Experiences
 + Machine Learning Intern @ _FrostDefense Envirotech_, January to May 2024
