@@ -8,7 +8,7 @@ disableAnchoredHeadings: false
 ---
 ## Hi everyone!
 
-I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign! I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond. 
+I'm Rishab Tirupathi, a current graduate student studying Statistics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Tech, Agriculture and beyond! 
 
 #### Education
 + Masters of Science in Statistics @ _University of Illinois at Urbana-Champaign_, January 2024 to Present
@@ -16,8 +16,8 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
   * GPA 3.81/4.00
   * Highest Distinction for Applied Mathematics
   * Highest Distinction for Statistics
-  * [Mathematics Coursework](https://rishab-t0910.github.io/website/courses/math/math/)
-  * [Statistics Coursework](https://rishab-t0910.github.io/website/courses/stats/stats/)
+  * [Mathematics Coursework](https://rishab-t0910.github.io/website/courses/math)
+  * [Statistics Coursework](https://rishab-t0910.github.io/website/courses/stats)
 
 #### Experiences
 + Machine Learning Intern @ _FrostDefense Envirotech_, January to May 2024
