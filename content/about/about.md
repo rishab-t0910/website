@@ -36,6 +36,6 @@ R Libraries: dplyr, ggplot2, tidyverse, tsa
 
 #### Extracurriculars
 I currently play rugby for UIUC Men's Rugby, and have done since entering college. 
-![Rugby Season][(http://url/to/img.png](https://github.com/rishab-t0910/website/blob/main/static/rugby.jpeg))
+![Rugby Season](https://github.com/rishab-t0910/website/blob/main/static/rugby.jpeg)
 
 I also previously sered as a Lieutenant in the Singapore Army Combat Engineers. 
