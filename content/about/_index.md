@@ -15,8 +15,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
   * GPA 3.81/4.00
   * Highest Distinction for Applied Mathematics
   * Highest Distinction for Statistics
-  * [Mathematics Coursework](https://rishab-t0910.github.io/website/courses/math)
-  * [Statistics Coursework](https://rishab-t0910.github.io/website/courses/stats)
+  * Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
   * Transferred from Nanyang Technological University after May 2021
  
 #### Experiences
@@ -25,10 +24,10 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 + **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
 
 #### Skills
-Programming Languages: Git, **Python**, **R**, SQL
+_Programming Languages_: Git, **Python**, **R**, SQL
 
-Software: DBT, Microsoft Excel, Snowflake, Tableau (BI)
+_Software_: DBT, Microsoft Excel, Snowflake, Tableau (BI)
 
-Python Libraries: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
+_Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
 
-R Libraries: dplyr, ggplot2, tidyverse, tsa
+_R Libraries_: dplyr, ggplot2, tidyverse, tsa
