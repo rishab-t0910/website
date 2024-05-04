@@ -47,7 +47,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
         margin-left: auto;
         margin-right: auto;
         width: 85%;
-        height: 85%;
+        height: 60%;
     }
 </style>
 
@@ -142,6 +142,10 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 </style>
 
 <div id="skills-grid">
+    <div>
+        <img class="logo" src="skills/Keras.png" alt="Keras">
+        <div class="title">Keras</div>
+    </div>
     <div>
         <img class="logo" src="skills/Matplotlib.png" alt="Matplotlib">
         <div class="title">Matplotlib</div>
