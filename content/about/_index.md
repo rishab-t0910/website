@@ -12,13 +12,12 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 </p>
 
 ### Education
-- **MS in Statistics** @ _University of Illinois at Urbana-Champaign_
+- **MS in Statistics** @ [_University of Illinois at Urbana-Champaign_](https://illinois.edu/)
   - Expected December 2025
 - **BS in Applied Mathematics and Statistics** @ _University of Illinois at Urbana-Champaign_
   - Graduated with a double major in December 2023 with a GPA of 3.81/4.00
-  - Highest Distinction for Applied Mathematics and Statistics
+  - Highest Distinction for both majors
   - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
-  - Transferred from Nanyang Technological University after May 2021
  
 ### Experiences
 - **Machine Learning Intern** @ _FrostDefense Envirotech_, January to May 2024
