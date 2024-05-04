@@ -172,7 +172,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
     </div>
     <div>
         <img class="logo" src="skills/statsmodel.svg" alt="Statsmodels">
-        <div class="title">Statsmodels</div>
+        <div class="title">Statsmodel</div>
     </div>
     <div>
         <img class="logo" src="skills/Tensorflow.png" alt="Tensorflow">
