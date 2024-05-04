@@ -33,5 +33,68 @@ _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, sta
 
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
-![Git](Git.png)
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+</style>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="/Skills/PyTorch.png" alt="PyTorch">
+        <div class="title">PyTorch</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PYG.png" alt="PyTorch Geometric">
+        <div class="title">Torch Geo.</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/NetworkX.png" alt="NetworkX">
+        <div class="title">NetworkX</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Tensorflow.png" alt="Tensorflow">
+        <div class="title">Tensorflow</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Keras.png" alt="Keras">
+        <div class="title">Keras</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Ray.png" alt="Ray">
+        <div class="title">Ray</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/mlflow.png" alt="MLFlow">
+        <div class="title">MLFlow</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/ScikitLearn.png" alt="Scikit Learn">
+        <div class="title">Scikit Learn</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Seaborn.png" alt="Seaborn">
+        <div class="title">Seaborn</div>
+    </div>
+</div>
+
+</div>
 
