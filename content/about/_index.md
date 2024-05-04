@@ -33,6 +33,6 @@ _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, sta
 
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
-![Scenario 1: Across columns](https://github.com/rishab-t0910/website/blob/static/skills/Git.png)
+![Scenario 1: Across columns](/static/skills/Git.png)
 
 
