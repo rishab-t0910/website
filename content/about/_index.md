@@ -46,6 +46,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
         display: block;
         margin-left: auto;
         margin-right: auto;
+        width: 85%;
         height: 85%;
     }
 </style>
