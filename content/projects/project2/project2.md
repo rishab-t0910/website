@@ -20,3 +20,7 @@ Duration: March - May 2023
 The goal was to create a Shiny-R application that visualizes One-Day International (ODI) cricket data. This was a project for [STAT 385: Statistical Programming Methods](https://courses.illinois.edu/schedule/2024/spring/STAT/385) at UIUC. 
 
 Using data from 1996 to 2005, I was able to create the application that showed various combinations of data. The visualisations were in barplots and could help determine team matchups, favourite conditions, and winning records. More details of the project are included on the github repository, linked on the project name. 
+
+Below is an example of the filtered data. Here we see the results of India in South Africa from 1996 to 2005. 
+
+<img src="india_in_sa_96_05.png" alt="example" width = 100>
