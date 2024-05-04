@@ -100,7 +100,7 @@ params:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
-        hiddenInSingle: true
+        hiddenInSingle: false
     label:
       text: "Home page"
       icon: favicon.ico
