@@ -1,4 +1,4 @@
-baseURL: "https://rishab-tirupathi.github.io" 
+baseURL: "https://rishab-t0910.github.io/website/" 
 title: Rishab Tirupathi
 paginate: 20
 theme: PaperMod
@@ -102,7 +102,7 @@ params:
         hiddenInList: false
         hiddenInSingle: false
     label:
-      text: "Home page"
+      text: "Home"
       icon: favicon.ico
       iconHeight: 18
 
