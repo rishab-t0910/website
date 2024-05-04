@@ -23,4 +23,4 @@ Using data from 1996 to 2005, I was able to create the application that showed v
 
 Below is an example of the filtered data. Here we see the results of India in South Africa from 1996 to 2005. 
 
-![Example](/indsa.png)
+![Example](project2/indsa.png)
