@@ -25,7 +25,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
 
 ### Skills
-_Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow!
+_Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
 
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
@@ -115,6 +115,67 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
     <div>
         <img class="logo" src="skills/Tableau.png" alt="Tableau">
         <div class="title">Tableau</div>
+    </div>
+</div>
+</div>
+
+#### Python Libraries
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+</style>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="skills/Matplotlib.png" alt="Matplotlib">
+        <div class="title">Matplotlib</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Numpy.png" alt="Numpy">
+        <div class="title">Numpy</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Pandas.png" alt="Pandas.png">
+        <div class="title">Pandas.png</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/ScikitLearn.png" alt="ScikitLearn">
+        <div class="title">ScikitLearn</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Scipy.png" alt="Scipy">
+        <div class="title">Scipy</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Seaborn.png" alt="Seaborn">
+        <div class="title">Seaborn</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/statsmodel.svg" alt="Statsmodels">
+        <div class="title">Statsmodels</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Tensorflow.png" alt="Tensorflow">
+        <div class="title">Tensorflow</div>
     </div>
 </div>
 </div>
