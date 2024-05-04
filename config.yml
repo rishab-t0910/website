@@ -54,9 +54,9 @@ params:
           enabled: true
           title: Rishab Tirupathi
           subtitle: "I am a first-year MS Statistics student at University of Illinois at Urbana-Champaign. My fields of interest probability, stochastic processes, combinatorics, and optimization. My career interests are industries where I can solve tough quantitative problems, and hopefully help people. Outside of school, I enjoy playing sports such as rugby, cricket, or going on a run."
-          imageUrl: "nyc.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageUrl: "picture.jpg"
+          imageWidth: 180
+          imageHeight: 140
           imageTitle: Rishab Tirupathi
           buttons:
             - name: About
