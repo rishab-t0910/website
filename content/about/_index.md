@@ -34,35 +34,6 @@ _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, sta
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
 <div>
-
-<style>
-    #skills-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-        grid-gap: 5px;
-    }
-
-    #skills-grid > div {
-        padding: .5em;
-        text-align: center;
-        align-items: center;
-        justify-content: center;
-    }
-
-    #skills-grid > div > img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 85%;
-    }
-</style>
-
-<div id="skills-grid">
-    <div>
-        <img class="logo" src="/skills/Git.png" alt="Git">
-        <div class="title">PyTorch</div>
-    </div>
+    <img class="logo" src="./skills/Git.png" alt="Git">
+    <div class="title">Git</div>
 </div>
-
-</div>
-
