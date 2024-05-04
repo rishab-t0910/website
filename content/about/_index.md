@@ -60,9 +60,20 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
 <div id="skills-grid">
     <div>
-        <img class="logo" src="Git.png" alt="Git">
+        <img class="logo" src="skills/Git.png" alt="Git">
         <div class="title">Git</div>
     </div>
+    <div>
+        <img class="logo" src="skills/Python.png" alt="Python">
+        <div class="title">Python</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/R.png" alt="R">
+        <div class="title">R</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/SQL.png" alt="SQL">
+        <div class="title">SQL</div>
+    </div>
 </div>
-
 </div>
