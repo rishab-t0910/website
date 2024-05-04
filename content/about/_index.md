@@ -29,10 +29,13 @@ _Programming Languages_: Git, **Python**, **R**, SQL
 
 _Software_: DBT, Microsoft Excel, Snowflake, Tableau (BI)
 
+_Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow!
+
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
-#### Python Libraries
+#### Programming Languages
 <div>
+
 <style>
     #skills-grid {
         display: grid;
@@ -54,24 +57,12 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
         width: 85%;
     }
 </style>
+
 <div id="skills-grid">
     <div>
-        <img class="logo" src="Tensorflow.png" alt="Tensorflow">
-        <div class="title">Tensorflow</div>
-    </div>
-    <div>
-        <img class="logo" src="Keras.png" alt="Keras">
-        <div class="title">Keras</div>
-    </div>
-    <div>
-        <img class="logo" src="ScikitLearn.png" alt="Scikit Learn">
-        <div class="title">Scikit Learn</div>
-    </div>
-    <div>
-        <img class="logo" src="Seaborn.png" alt="Seaborn">
-        <div class="title">Seaborn</div>
+        <img class="logo" src="/Git.png" alt="Git">
+        <div class="title">Git</div>
     </div>
 </div>
 
 </div>
-
