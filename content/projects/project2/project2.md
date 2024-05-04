@@ -21,7 +21,6 @@ The goal was to create a Shiny-R application that visualizes One-Day Internation
 
 Using data from 1996 to 2005, I was able to create the application that showed various combinations of data. The visualisations were in barplots and could help determine team matchups, favourite conditions, and winning records. More information is available at the [github repository](https://github.com/rishab-t0910/stat385project). 
 
-![Example](/static/india_in_sa_96_05.png)
-
+<img src="static/india_in_sa_96_05.png" class="img-responsive" alt=""> </div>
 
 
