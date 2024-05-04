@@ -33,4 +33,4 @@ _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, sta
 
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
-<img class="logo" src="Git.png" alt="Git">
+<src="Git.png" alt="Git">
