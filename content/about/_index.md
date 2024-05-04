@@ -30,23 +30,22 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 
 <style>
     #skills-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-        grid-gap: 5px;
+        display: flex; /* Use flexbox */
+        flex-wrap: nowrap; /* Prevent wrapping to next line */
+        justify-content: space-between; /* Distribute items evenly */
     }
 
     #skills-grid > div {
         padding: .5em;
         text-align: center;
-        align-items: center;
-        justify-content: center;
     }
 
     #skills-grid > div > img {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 85%;
+        width: 100px;
+        height: 100px;
     }
 </style>
 
@@ -212,7 +211,7 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
     </div>
     <div>
         <img class="logo" src="skills/tidyverse.png" alt="tidyverse.png">
-        <div class="title">tidyverse.png</div>
+        <div class="title">tidyverse</div>
     </div>
     <div>
         <img class="logo" src="skills/tsa.png" alt="tsa">
