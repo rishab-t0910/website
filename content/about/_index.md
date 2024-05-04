@@ -25,10 +25,6 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
 
 ### Skills
-_Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow
-
-_R Libraries_: dplyr, ggplot2, tidyverse, tsa
-
 #### Programming Languages
 <div>
 
@@ -155,7 +151,7 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
     </div>
     <div>
         <img class="logo" src="skills/Pandas.png" alt="Pandas.png">
-        <div class="title">Pandas.png</div>
+        <div class="title">Pandas</div>
     </div>
     <div>
         <img class="logo" src="skills/ScikitLearn.png" alt="ScikitLearn">
@@ -179,3 +175,49 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
     </div>
 </div>
 </div>
+
+#### R Libraries
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+</style>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="skills/dplyr.png" alt="dplyr">
+        <div class="title">dplyr</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/ggplot2.png" alt="ggplot2">
+        <div class="title">ggplot2</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/tidyverse.png" alt="tidyverse.png">
+        <div class="title">tidyverse.png</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/tsa.png" alt="tsa">
+        <div class="title">tsa</div>
+    </div>
+</div>
+</div>
+
