@@ -30,14 +30,16 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 
 <style>
     #skills-grid {
-        display: flex; /* Use flexbox */
-        flex-wrap: nowrap; /* Prevent wrapping to next line */
-        justify-content: space-between; /* Distribute items evenly */
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
     }
 
     #skills-grid > div {
         padding: .5em;
         text-align: center;
+        align-items: center;
+        justify-content: space-between;
     }
 
     #skills-grid > div > img {
