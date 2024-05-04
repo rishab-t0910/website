@@ -25,60 +25,11 @@ I'm Rishab Tirupathi, a current graduate student studying Statistics at the Univ
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
 
 ### Skills
-_Programming Languages_: Git, **Python**, **R**, SQL
-
-_Software_: DBT, Microsoft Excel, Snowflake, Tableau (BI)
-
 _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, statsmodels, TensorFlow!
 
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
 #### Programming Languages
-<div>
-
-<style>
-    #skills-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-        grid-gap: 5px;
-    }
-
-    #skills-grid > div {
-        padding: .5em;
-        text-align: center;
-        align-items: center;
-        justify-content: center;
-    }
-
-    #skills-grid > div > img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 85%;
-    }
-</style>
-
-<div id="skills-grid">
-    <div>
-        <img class="logo" src="skills/DBT.png" alt="DBT">
-        <div class="title">DBT</div>
-    </div>
-    <div>
-        <img class="logo" src="skills/Excel.png" alt="Excel">
-        <div class="title">Excel</div>
-    </div>
-    <div>
-        <img class="logo" src="skills/Snowflake.png" alt="Snowflake">
-        <div class="title">Snowflake</div>
-    </div>
-    <div>
-        <img class="logo" src="skills/Tableau.png" alt="Tableau">
-        <div class="title">Tableau</div>
-    </div>
-</div>
-</div>
-
-#### Software
 <div>
 
 <style>
@@ -119,6 +70,51 @@ _R Libraries_: dplyr, ggplot2, tidyverse, tsa
     <div>
         <img class="logo" src="skills/SQL.png" alt="SQL">
         <div class="title">SQL</div>
+    </div>
+</div>
+</div>
+
+#### Software
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+</style>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="skills/DBT.png" alt="DBT">
+        <div class="title">DBT</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Excel.png" alt="Excel">
+        <div class="title">Excel</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Snowflake.png" alt="Snowflake">
+        <div class="title">Snowflake</div>
+    </div>
+    <div>
+        <img class="logo" src="skills/Tableau.png" alt="Tableau">
+        <div class="title">Tableau</div>
     </div>
 </div>
 </div>
