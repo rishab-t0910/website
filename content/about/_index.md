@@ -34,6 +34,6 @@ _Python Libraries_: Matplotlib, NumPy, pandas, scikit-learn, SciPy, seaborn, sta
 _R Libraries_: dplyr, ggplot2, tidyverse, tsa
 
 <div>
-    <img class="logo" src="./skills/Git.png" alt="Git">
+    <img class="logo" src="Git.png" alt="Git">
     <div class="title">Git</div>
 </div>
