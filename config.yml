@@ -75,7 +75,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: static/Rishab Tirupathi Resume.pdf
+          url: RishabTirupathiResume.pdf
         - name: Email
           url: mailto:rishab.t0910@gmail.com
         # - name: Location
