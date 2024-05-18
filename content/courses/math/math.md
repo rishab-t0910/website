@@ -14,7 +14,7 @@ url: /courses/math
 ---
 | Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :--------|
-| MATH 561      | Theory of Probability 1| Spring 2024| TBD |
+| MATH 561      | Theory of Probability 1| Spring 2024| A- |
 | MATH 466      | Applied Random Processes| Fall 2023| A- |
 | MATH 484      | Non-linear Programming | Fall 2023| A|
 | MATH 413      | Introduction to Combinatorics| Spring 2023| A|
