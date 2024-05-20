@@ -14,8 +14,8 @@ url: /courses/stats
 ---
 | Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :------|
-| STAT 525      | Computational Statistics| Spring 2024| TBD |
-| STAT 432      | Basics of Statistical Learning| Spring 2024| TBD |
+| STAT 525      | Computational Statistics| Spring 2024| A+ |
+| STAT 432      | Basics of Statistical Learning| Spring 2024| A |
 | STAT 426      | Statistical Modelling 2| Fall 2023| A-|
 | STAT 430      | Time Series Machine Learning | Fall 2023| A|
 | STAT 429      | Time Series Analysis| Spring 2023| A|
