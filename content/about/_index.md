@@ -54,7 +54,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 
 <div id="exp-grid">
     <div>
-        <img class="logo" src="static/agco.jpeg" alt="AGCO Corp">
+        <img class="logo" src="exp/agco.jpeg" alt="AGCO Corp">
         <div class="title">AGCO Corp</div>
     </div>
 </div>
