@@ -20,45 +20,11 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
   - Highest Distinction for both majors, GPA: 3.81/4.00
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
  
-### Experiences
+### Experience
 - **Data Specialist Intern** @ _AGCO_, May 2024 to Present
 - **Machine Learning Intern** @ _FrostDefense Envirotech_, January to May 2024
 - **Analytics Intern** @ _Chicago Blackhawks_, June to August 2023
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
-
-### Experience
-<div>
-
-<style>
-    #exp-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-        grid-gap: 5px;
-    }
-
-    #exp-grid > div {
-        padding: .5em;
-        text-align: center;
-        align-items: center;
-        justify-content: space-between;
-    }
-
-    #exp-grid > div > img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 95%;
-        height: 60%;
-    }
-</style>
-
-<div id="exp-grid">
-    <div>
-        <img class="logo" src="exp/agco.jpeg" alt="AGCO Corp">
-        <div class="title">AGCO Corp</div>
-    </div>
-</div>
-</div>
 
 ### Skills
 #### Programming Languages
