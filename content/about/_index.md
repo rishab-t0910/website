@@ -21,7 +21,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
  
 ### Experience
-- **Data Specialist Intern** @ _AGCO_, May 2024 to Present
+- **Data Analyst Intern** @ _AGCO Corporation_, May 2024 to Present
 - **Machine Learning Intern** @ _FrostDefense Envirotech_, January to May 2024
 - **Analytics Intern** @ _Chicago Blackhawks_, June to August 2023
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
