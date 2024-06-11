@@ -12,7 +12,7 @@ showToc: true
 disableAnchoredHeadings: false
 url: /courses/stats
 ---
-| Course Number | Course Name | Semester Taken | Grade | | Comments |
+| Course Number | Course Name | Semester Taken | Grade | Comments |
 | :-------------| :----------| :-------------| :------| :-------------|
 | STAT 525      | Computational Statistics| Spring 2024| A+ | | 
 | STAT 432      | Basics of Statistical Learning| Spring 2024| A | |
