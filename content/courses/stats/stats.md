@@ -1,6 +1,6 @@
 ---
 title: "Statistics Courses taken"
-date: 2024-05-01
+date: 2024-06-01
 author: "Rishab Tirupathi"
 description: "Statistics Courses taken" 
 summary: "A list of statistics courses I have taken as an undergraduate and graduate student." 
