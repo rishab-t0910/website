@@ -13,7 +13,7 @@ disableAnchoredHeadings: false
 url: /courses/others
 ---
 | Course Number | Course Name | Semester Taken | Grade | Comments |
-| :-------------| :----------| :-------------| :--------| :--------|
+| :-------------| :----------| :-------------| :--------| :-------------|
 | CS 571      | Combinatorial Mathematics| Fall 2024| TBD | Also Math |
 | IE 524        | Optimization in Finance| Fall 2024| TBD | |
 | CS 374        | Intro to Algorithms & Models of Computation| Fall 2024| TBD | | 
