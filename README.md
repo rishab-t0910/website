@@ -2,6 +2,10 @@
 
 This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to create a personal academic website. The template uses the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) but modifies it in various ways to be more minimalist and more adapted to academic websites. The website is hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
 
+## Current Website link
+
+My website can be found at https://rishab-t0910.github.io/website/.
+
 ## Documentation
 
 The template is documented at https://pascalmichaillat.org/d5/.
@@ -57,7 +61,7 @@ The website was built with Hugo v0.124.1 on an Apple Silicon Mac running macOS S
 
 The content of this repository is licensed under the terms of the MIT License.
 
-## Real-world implementations
+<!-- ## Real-world implementations
 
 + [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
 + [Dylan Balla-Elliott's website](https://www.dballaelliott.com) ([source code](https://github.com/dballaelliott/site))
@@ -74,4 +78,4 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Lucas Warwar's website](https://lucaswarwar.github.io) ([source code](https://github.com/lucaswarwar/lucaswarwar.github.io))
 + [Franz Louis Cesista's website](https://leloykun.github.io) ([source code](https://github.com/leloykun/leloykun.github.io))
 + [Pragathi Praveena's website](https://pragathipraveena.com)
-+ [Qiwei He's website](https://www.qiwei-he.com)
++ [Qiwei He's website](https://www.qiwei-he.com) -->
