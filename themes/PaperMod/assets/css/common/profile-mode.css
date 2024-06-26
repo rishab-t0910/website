@@ -19,7 +19,7 @@
     width: 180px;
     height: 180px;
     object-fit: cover;
-    border-radius: 0%;
+    border-radius: 0;
 }
 
 .buttons {
