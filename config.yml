@@ -43,7 +43,7 @@ params:
           enabled: true
           title: Rishab Tirupathi
           subtitle: "I am a first-year MS Applied Mathematics student at University of Illinois at Urbana-Champaign. My fields of interest probability, stochastic processes, combinatorics, and optimization. My career interests are industries where I can solve tough quantitative problems, and hopefully help people. Outside of school, I enjoy playing sports such as rugby, cricket, squash, and golf."
-          imageUrl: "picture.JPG"
+          imageUrl: "circle_photo.jpg"
           imageWidth: 175
           imageHeight: 175
           imageTitle: Rishab Tirupathi 
