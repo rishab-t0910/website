@@ -16,7 +16,10 @@
 
 .profile img {
     display: inline-table;
-    border-radius: 0;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    /* border-radius: 50%; */
 }
 
 .buttons {
