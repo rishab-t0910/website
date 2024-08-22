@@ -8,7 +8,7 @@ disableAnchoredHeadings: false
 # Hi everyone!
 
 <p align="justify"> 
-I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at the University of Illinois at Urbana-Champaign. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Technology, Agriculture and beyond! 
+I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at the University of Illinois at Urbana-Champaign. I am originally from Singapore, where I served in the Singapore Army as a Combat Engineer Officer/Lieutenant as part of conscription law. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Technology, Agriculture and beyond! 
 </p>
 
 ### Education
