@@ -14,7 +14,6 @@ url: /courses/others
 ---
 | Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :--------|
-| IE 598        | Collective Decision Making| Fall 2024| TBD |
 | CS 374        | Intro to Algorithms & Models of Computation| Fall 2024| TBD |
 | ECON 302      | Inter Microeconomic Theory| Spring 2023| A+|
 | CS 357        | Numerical Methods| Fall 2022| A|
