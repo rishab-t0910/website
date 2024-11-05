@@ -25,6 +25,8 @@ url: /courses/math
 | MATH 482      | Linear Programming | Spring 2022| A| 
 | MATH 347      | Fundamental Mathematics | Fall 2021| A| 
 | MATH 241      | Calculus 3 | Fall 2021| A-| 
+
+
 <!-- | MH1403        | Algorithms and Computing| Spring 2021| B+| 
 | MH1301        | Discrete Mathematics| Spring 2021| B+| 
 | MH1201        | Linear Algebra 2| Spring 2021| B|  -->
