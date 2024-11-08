@@ -21,7 +21,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
  
 ### Experience
-- **Research Intern** @ _UIUC iRisk Lab_, August 2024 to Present
+- **Graduate Researcher** @ _UIUC_, August 2024 to Present
 - **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to Present
 - **Data Analyst Intern** @ _AGCO Corporation_, May 2024 to August 2024
 - **Machine Learning Intern** @ _FrostDefense Envirotech_, January to May 2024
