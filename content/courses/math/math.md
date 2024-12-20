@@ -17,7 +17,7 @@ url: /courses/math
 | MATH 473      | Algorithms| Spring 2025| TBD| 
 | MATH 595      | Stochastic Processes on Graphs| Spring 2025| TBD| 
 | MATH 595      | Optimum Control Systems| Spring 2025| TBD| 
-| MATH 412      | Graph Theory| Fall 2024| TBD| 
+| MATH 412      | Graph Theory| Fall 2024| A| 
 | MATH 561      | Theory of Probability 1| Spring 2024| A- | 
 | MATH 466      | Applied Random Processes| Fall 2023| A- | 
 | MATH 484      | Non-linear Programming | Fall 2023| A|
