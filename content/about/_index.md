@@ -22,7 +22,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
  
 ### Experience
 - **Graduate Researcher** @ _UIUC_, August 2024 to Present
-- **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to Present
+- **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to December 2024
 - **Data Analyst Intern** @ _AGCO Corporation_, May 2024 to August 2024
 - **Machine Learning Intern** @ _FrostDefense Envirotech_, January to May 2024
 - **Analytics Intern** @ _Chicago Blackhawks_, June to August 2023
