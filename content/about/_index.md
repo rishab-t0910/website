@@ -21,7 +21,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
 
 <details>
-<summary><strong>Experience</strong?></summary>
+<summary><strong>Experience</strong></summary>
 
 - **Statistics Course Assistant** @ _UIUC Statistics Department_, January 2025 to Present
     - STAT 432: Basics of Statistical Learning (SP 25)
