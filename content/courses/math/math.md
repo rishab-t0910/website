@@ -1,6 +1,7 @@
 ---
 title: "Mathematics Courses taken"
 date: 2025-02-01
+weight: 1
 author: "Rishab Tirupathi"
 description: "Mathematics Courses taken" 
 summary: "A list of mathematics courses I have taken as an undergraduate and graduate student." 

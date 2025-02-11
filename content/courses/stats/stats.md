@@ -1,6 +1,7 @@
 ---
 title: "Statistics Courses taken"
 date: 2025-02-01
+weight: 2
 author: "Rishab Tirupathi"
 description: "Statistics Courses taken" 
 summary: "A list of statistics courses I have taken as an undergraduate and graduate student." 

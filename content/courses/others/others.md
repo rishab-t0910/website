@@ -1,6 +1,7 @@
 ---
 title: "Additional Courses taken"
 date: 2025-02-01
+weight: 3
 author: "Rishab Tirupathi"
 description: "Additional Courses taken" 
 summary: "A list of courses in technical fields other than Mathematics and Statistics I have taken as an undergraduate and graduate student." 
