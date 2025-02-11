@@ -20,7 +20,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
   - Highest Distinction for both majors, GPA: 3.81/4.00
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
 
-<!-- Experience
+Experience
 - **Statistics Course Assistant** @ _UIUC Statistics Department_, January 2025 to Present
 - **Graduate Researcher** @ _UIUC_, August 2024 to Present
 - **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to Present
@@ -28,7 +28,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - **Data Analyst Intern** @ _AGCO Corporation_, May 2024 to August 2024
 - **Machine Learning Intern** @ _FrostDefense Envirotech_, January to May 2024
 - **Analytics Intern** @ _Chicago Blackhawks_, June to August 2023
-- **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020 -->
+- **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
 
 ### Skills
 #### Programming Languages
