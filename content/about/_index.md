@@ -21,7 +21,6 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
 
 Experience
-- **Statistics Course Assistant** @ _UIUC Statistics Department_, January 2025 to Present
 - **Graduate Researcher** @ _UIUC_, August 2024 to Present
 - **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to Present
     - Ranked as excellent for FA24
