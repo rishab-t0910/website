@@ -1,6 +1,6 @@
 ---
 title: "Additional Courses taken"
-date: 2024-05-01
+date: "`r Sys.Date()`"
 author: "Rishab Tirupathi"
 description: "Additional Courses taken" 
 summary: "A list of courses in technical fields other than Mathematics and Statistics I have taken as an undergraduate and graduate student." 

@@ -1,6 +1,6 @@
 ---
 title: "Mathematics Courses taken"
-date: 2024-06-01
+date: "`r Sys.Date()`"
 author: "Rishab Tirupathi"
 description: "Mathematics Courses taken" 
 summary: "A list of mathematics courses I have taken as an undergraduate and graduate student." 
