@@ -11,7 +11,9 @@ disableAnchoredHeadings: false
 I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at the University of Illinois at Urbana-Champaign. I am originally from Singapore, where I served in the Singapore Army as a Combat Engineer Officer/Lieutenant. I am looking for internships where I can solve tough quantitative problems in any industry from Finance, Technology, Agriculture and beyond! 
 </p>
 
-### Education
+<details>
+<summary><strong>Education</strong></summary>
+
 - **MS in Applied Mathematics** @ [_University of Illinois at Urbana-Champaign_](https://illinois.edu/)
   - Concentration in Algorithms and Optimization, GPA: 3.75/4.00
   - Expected December 2025
@@ -19,6 +21,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
   - Graduated with a double major in December 2023
   - Highest Distinction for both majors, GPA: 3.81/4.00
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
+</details>
 
 <details>
 <summary><strong>Experience</strong></summary>
@@ -42,7 +45,9 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
 </details>
 
-### Skills
+<details>
+<summary><strong>Skills</strong></summary>
+
 #### Programming Languages
 <div>
 
@@ -243,4 +248,4 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
     </div>
 </div>
 </div>
-
+</details>
