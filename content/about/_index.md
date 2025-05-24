@@ -26,7 +26,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 <details>
 <summary><strong>Industry Experience</strong></summary>
 
-- **Graduate Quantitative Risk Management Intern** @ _Freddie Mac_, May 2025 to Present
+- **Graduate Quantitative Risk Management Intern** @ _Freddie Mac_, May 2025 to Prese
 	
 - **Data Analyst Intern** @ _AGCO Corporation_, May 2024 to August 2024
 
