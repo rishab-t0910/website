@@ -15,8 +15,8 @@ url: /courses/math
 ---
 | Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :--------|
-| MATH 553      | Partial Differential Equations| Spring 2025| TBD| 
-| MATH 450      | Numerical Analysis| Spring 2025| TBD|
+| MATH 553      | Partial Differential Equations| Spring 2025| A-| 
+| MATH 450      | Numerical Analysis| Spring 2025| A+|
 | MATH 412      | Graph Theory| Fall 2024| A| 
 | MATH 561      | Theory of Probability 1| Spring 2024| A- | 
 | MATH 466      | Applied Random Processes| Fall 2023| A- | 
