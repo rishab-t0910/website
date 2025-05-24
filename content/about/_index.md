@@ -38,7 +38,6 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 </details>
 
 <details>
-<details>
 <summary><strong>Academic Experience</strong></summary>
 
 - **Statistics Course Assistant** @ _UIUC Statistics Department_, January 2025 to Present
