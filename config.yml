@@ -18,7 +18,7 @@ menu:
           url: courses/
           weight: 3
 params:
-    description: "I am a first-year MS Applied Mathematics student at University of Illinois at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
+    description: "I am currently a MS Applied Mathematics student at University of Illinois at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
     author: Rishab Tirupathi
     DateFormat: "January 2006"
     defaultTheme: light
