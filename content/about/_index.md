@@ -24,19 +24,9 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 </details>
 
 <details>
-<summary><strong>Experience</strong></summary>
+<summary><strong>Industry Experience</strong></summary>
 
 - **Graduate Quantitative Risk Management Intern** @ _Freddie Mac_, May 2025 to Present
-
-- **Statistics Course Assistant** @ _UIUC Statistics Department_, January 2025 to Present
-    <!-- - STAT 432: Basics of Statistical Learning (SP 25) -->
-
-- **Graduate Researcher** @ _UIUC_, August 2024 to Present
-
-- **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to Present
-    <!-- - MATH 231: Calculus 2 (SP 25)
-    - MATH 220: Calculus (FA 24)
-        - Ranked as Excellent -->
 	
 - **Data Analyst Intern** @ _AGCO Corporation_, May 2024 to August 2024
 
@@ -45,6 +35,21 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 - **Analytics Intern** @ _Chicago Blackhawks_, June to August 2023
 
 - **Platoon Commander** @ _Singapore Armed Forces_, June 2018 to July 2020
+</details>
+
+<details>
+<details>
+<summary><strong>Academic Experience</strong></summary>
+
+- **Statistics Course Assistant** @ _UIUC Statistics Department_, January 2025 to Present
+    - STAT 432: Basics of Statistical Learning (SP 25)
+
+- **Graduate Researcher** @ _UIUC_, August 2024 to Present
+
+- **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, August 2024 to Present
+    - MATH 231: Calculus 2 (SP 25)
+    - MATH 220: Calculus (FA 24)
+        - Ranked as Excellent
 </details>
 
 <details>
