@@ -19,7 +19,7 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
   - Expected December 2025
 - **BS in Applied Mathematics and Statistics** @ _University of Illinois at Urbana-Champaign_
   - Graduated with a double major in December 2023
-  - Highest Distinction for both majors, GPA: 3.81/4.0
+  - Highest Distinction for both majors, GPA: 3.81/4.00
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
 </details>
 
