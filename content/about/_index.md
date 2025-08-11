@@ -40,16 +40,18 @@ I'm Rishab Tirupathi, a current graduate student studying Applied Mathematics at
 <details>
 <summary><strong>Academic Experience</strong></summary>
 
-- **Statistics Course Assistant** @ _UIUC Statistics Department_, Jan 2025 to May 2025
-    - STAT 432: Basics of Statistical Learning (SP 25)
-
 - **Graduate Researcher** @ _UIUC_, Aug 2024 to Present
 
 - **Mathematics Graduate Teaching Assistant** @ _UIUC Mathematics Department_, Aug 2024 to Present
+    - MATH 446: Applied Complex Variables (FA 25)
+    - MATH 441: Differential Equations (FA 25)
     - MATH 231: Calculus 2 (SP 25)
         - Ranked as Excellent
     - MATH 220: Calculus (FA 24)
         - Ranked as Excellent
+
+- **Statistics Course Assistant** @ _UIUC Statistics Department_, Jan 2025 to May 2025
+    - STAT 432: Basics of Statistical Learning (SP 25)
 </details>
 
 <details>
