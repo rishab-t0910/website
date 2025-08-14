@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: 2024-05-01
+date: 2025-08-14
 author: "Rishab Tirupathi"
 showToc: false
 disableAnchoredHeadings: false

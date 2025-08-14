@@ -1,6 +1,6 @@
 ---
 title: "Additional Courses taken"
-date: 2025-02-01
+date: 2025-08-14
 weight: 3
 author: "Rishab Tirupathi"
 description: "Additional Courses taken" 
