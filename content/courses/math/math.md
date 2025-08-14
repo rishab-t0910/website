@@ -15,7 +15,7 @@ url: /courses/math
 ---
 | Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :--------|
-<!-- | MATH 580      | Combinatorial Mathematics| Fall 2025| TBD| 
+| MATH 580      | Combinatorial Mathematics| Fall 2025| TBD| 
 | MATH 564      | Applied Stochastic Processes| Fall 2025| TBD|
 | MATH 453      | Number Theory| Fall 2025| TBD| 
 | MATH 553      | Partial Differential Equations| Spring 2025| A-| 
@@ -30,4 +30,4 @@ url: /courses/math
 | MATH 417      | Abstract Algebra| Spring 2022|A| 
 | MATH 482      | Linear Programming | Spring 2022| A| 
 | MATH 347      | Fundamental Mathematics | Fall 2021| A| 
-| MATH 241      | Calculus 3 | Fall 2021| A-| -->
+| MATH 241      | Calculus 3 | Fall 2021| A-|
