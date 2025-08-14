@@ -15,8 +15,8 @@ url: /courses/math
 ---
 | Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :--------|
-| MATH 580      | Combinatorial Mathematics| Fall 2025| TBD| 
-| MATH 564      | Applied Stochastic Processes| Fall 2025| TBD| 
+<!-- | MATH 580      | Combinatorial Mathematics| Fall 2025| TBD| 
+| MATH 564      | Applied Stochastic Processes| Fall 2025| TBD|  -->
 | MATH 453      | Number Theory| Fall 2025| TBD| 
 | MATH 553      | Partial Differential Equations| Spring 2025| A-| 
 | MATH 450      | Numerical Analysis| Spring 2025| A+|
