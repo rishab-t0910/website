@@ -1,86 +1,88 @@
-baseURL: "https://rishab-t0910.github.io/website/" 
+baseURL: "https://rishab-t0910.github.io/website/"
 title: Rishab Tirupathi
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 taxonomies:
-    tag: tags
+  tag: tags
+  social: socials
 menu:
-    main:
-        # - name: About
-        #   url: about/
-        #   weight: 1
-        - name: Projects
-          url: projects/
-          weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
+  main:
+    # - name: About
+    #   url: about/
+    #   weight: 1
+    - name: Projects
+      url: projects/
+      weight: 1
+    - name: Courses
+      url: courses/
+      weight: 2
 params:
-    description: "I am currently a MS Applied Mathematics student at University of Illinois at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
-    author: Rishab Tirupathi
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Rishab Tirupathi
-          subtitle: "I am currently a MS Applied Mathematics student at University of Illinois at Urbana-Champaign. My fields of interests include probability, stochastic processes, combinatorics, and optimization. My career interests are industries where I can solve tough quantitative problems, and hopefully help people. Outside of school, I enjoy playing sports such as rugby, cricket, squash, and golf."
-          imageUrl: "circle_photo.png"
-          imageWidth: 175
-          imageHeight: 175
-          imageTitle: Rishab Tirupathi 
-          buttons:
-            # - name: About
-            #   url: about/
-            - name: Projects
-              url: projects/
-            - name: Courses
-              url: courses/
-    socialIcons:
-        - name: CV
-          url: RishabTirupathiResume.pdf
-        - name: Email
-          url: mailto:rishab.t0910@gmail.com
-        - name: GitHub
-          url: https://github.com/rishab-t0910
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/rishab-tirupathi
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: false
-    label:
-      text: "Home"
-      icon: favicon.ico
-      iconHeight: 18
+  description: "I am currently a MS Applied Mathematics student at University of Illinois at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
+  author: Rishab Tirupathi
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Rishab Tirupathi
+    subtitle: "I am currently a MS Applied Mathematics student at University of Illinois at Urbana-Champaign. My fields of interests include probability, stochastic processes, combinatorics, and optimization. My career interests are industries where I can solve tough quantitative problems, and hopefully help people. Outside of school, I enjoy playing sports such as rugby, cricket, squash, and golf."
+    imageUrl: "circle_photo.png"
+    imageWidth: 175
+    imageHeight: 175
+    imageTitle: Rishab Tirupathi
+    buttons:
+      # - name: About
+      #   url: about/
+      - name: Projects
+        url: projects/
+      - name: Courses
+        url: courses/
+  Social:
+    - name: CV
+      url: RishabTirupathiResume.pdf
+    - name: Email
+      url: mailto:rishab.t0910@gmail.com
+    - name: GitHub
+      url: https://github.com/rishab-t0910
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/rishab-tirupathi
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+  label:
+    text: "Home"
+    icon: favicon.ico
+    iconHeight: 18
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2

@@ -2,64 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/</loc>
+    <loc>https://rishab-t0910.github.io/website/courses/math/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/courses/stats/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/courses/others/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/courses/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/projects/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/project/who_life_expectancy/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/projects/monopoly/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/data1/</loc>
+    <loc>https://rishab-t0910.github.io/website/data/data1/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-10/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-5/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-6/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-7/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+    <loc>https://rishab-t0910.github.io/website/projects/cricket_r_shiny/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course2/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper2/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-1/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-2/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper1/</loc>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-4/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/papers/paper2/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/papers/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/tags/keyword-3/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/archive/</loc>
+    <loc>https://rishab-t0910.github.io/website/papers/paper1/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/location/</loc>
+    <loc>https://rishab-t0910.github.io/website/archive/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/officehours/</loc>
+    <loc>https://rishab-t0910.github.io/website/location/</loc>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/officehours/</loc>
+  </url><url>
+    <loc>https://rishab-t0910.github.io/website/socials/</loc>
   </url>
 </urlset>

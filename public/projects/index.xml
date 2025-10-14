@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Rishab Tirupathi</title>
+    <link>https://rishab-t0910.github.io/website/projects/</link>
+    <description>Recent content in Projects on Rishab Tirupathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rishab-t0910.github.io/website/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHO Life Expectancy</title>
+      <link>https://rishab-t0910.github.io/website/project/who_life_expectancy/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/project/who_life_expectancy/</guid>
+      <description>Modelling WHO Life Expectancy</description>
+    </item>
+    
+    <item>
+      <title>Monopoly Board Game Simulator</title>
+      <link>https://rishab-t0910.github.io/website/projects/monopoly/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/projects/monopoly/</guid>
+      <description>Monopoly Board Game Simulator</description>
+    </item>
+    
+    <item>
+      <title>ODI Cricket Shiny Application</title>
+      <link>https://rishab-t0910.github.io/website/projects/cricket_r_shiny/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/projects/cricket_r_shiny/</guid>
+      <description>Visualising ODI Cricket statistics</description>
+    </item>
+    
+  </channel>
+</rss>

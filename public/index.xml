@@ -1,73 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Prof. Name</description>
+    <title>Rishab Tirupathi</title>
+    <link>https://rishab-t0910.github.io/website/</link>
+    <description>Recent content on Rishab Tirupathi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rishab-t0910.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics Courses taken</title>
+      <link>https://rishab-t0910.github.io/website/courses/math/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/courses/math/</guid>
+      <description>Mathematics Courses taken</description>
+    </item>
+    
+    <item>
+      <title>Statistics Courses taken</title>
+      <link>https://rishab-t0910.github.io/website/courses/stats/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/courses/stats/</guid>
+      <description>Statistics Courses taken</description>
+    </item>
+    
+    <item>
+      <title>Additional Courses taken</title>
+      <link>https://rishab-t0910.github.io/website/courses/others/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/courses/others/</guid>
+      <description>Additional Courses taken</description>
+    </item>
+    
+    <item>
+      <title>WHO Life Expectancy</title>
+      <link>https://rishab-t0910.github.io/website/project/who_life_expectancy/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/project/who_life_expectancy/</guid>
+      <description>Modelling WHO Life Expectancy</description>
+    </item>
+    
+    <item>
+      <title>Monopoly Board Game Simulator</title>
+      <link>https://rishab-t0910.github.io/website/projects/monopoly/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishab-t0910.github.io/website/projects/monopoly/</guid>
+      <description>Monopoly Board Game Simulator</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
+      <link>https://rishab-t0910.github.io/website/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
+      <guid>https://rishab-t0910.github.io/website/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
     
     <item>
-      <title>Course Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>ODI Cricket Shiny Application</title>
+      <link>https://rishab-t0910.github.io/website/projects/cricket_r_shiny/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
-      <description>This graduate course presents things.</description>
-    </item>
-    
-    <item>
-      <title>Course Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
-      <description>This undergraduate course presents many new things.</description>
+      <guid>https://rishab-t0910.github.io/website/projects/cricket_r_shiny/</guid>
+      <description>Visualising ODI Cricket statistics</description>
     </item>
     
     <item>
       <title>Paper Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
+      <link>https://rishab-t0910.github.io/website/papers/paper2/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
+      <guid>https://rishab-t0910.github.io/website/papers/paper2/</guid>
       <description>This paper shows other things. Published in Journal Name, 2015.</description>
     </item>
     
     <item>
       <title>Paper Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
+      <link>https://rishab-t0910.github.io/website/papers/paper1/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
+      <guid>https://rishab-t0910.github.io/website/papers/paper1/</guid>
       <description>This paper shows things. Published in Journal Name, 2012.</description>
     </item>
     
     
     <item>
       <title>Location</title>
-      <link>https://pascalmichaillat.org/hugo-website/location/</link>
+      <link>https://rishab-t0910.github.io/website/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
+      <guid>https://rishab-t0910.github.io/website/location/</guid>
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
     
     <item>
       <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/hugo-website/officehours/</link>
+      <link>https://rishab-t0910.github.io/website/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
+      <guid>https://rishab-t0910.github.io/website/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
     
