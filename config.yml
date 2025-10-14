@@ -13,10 +13,10 @@ menu:
         #   weight: 1
         - name: Projects
           url: projects/
-          weight: 2
+          weight: 1
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 2
 params:
     description: "I am currently a MS Applied Mathematics student at University of Illinois at Urbana-Champaign. I am interested in solving quantitative problems and playing rugby."
     author: Rishab Tirupathi
