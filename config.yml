@@ -48,8 +48,8 @@ params:
           imageHeight: 175
           imageTitle: Rishab Tirupathi 
           buttons:
-            - name: About
-              url: about/
+            # - name: About
+            #   url: about/
             - name: Projects
               url: projects/
             - name: Courses
