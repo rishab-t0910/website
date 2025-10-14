@@ -13,7 +13,7 @@ showToc: true
 disableAnchoredHeadings: false
 url: /courses/math
 ---
-| Course  | Course Name | Semester Taken | Grade |
+| Course Number | Course Name | Semester Taken | Grade |
 | :-------------| :----------| :-------------| :--------|
 | MATH 580      | Combinatorial Mathematics| Fall 2025| TBD| 
 | MATH 564      | Applied Stochastic Processes| Fall 2025| TBD|
