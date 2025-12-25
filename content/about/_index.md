@@ -15,11 +15,9 @@ I'm Rishab Tirupathi, a recent graduate student studying Applied Mathematics at 
 <details>
 <summary><strong>Education</strong></summary>
 
-- **MS in Applied Mathematics** @ [_University of Illinois at Urbana-Champaign_](https://illinois.edu/)
-  - Graduated with a concentration in Algorithms and Optimization in December 2025
-  - GPA: 3.84/4.00
-- **BS in Applied Mathematics and Statistics** @ _University of Illinois at Urbana-Champaign_
-  - Graduated with a double major in December 2023
+- **MS in Applied Mathematics** @ [_University of Illinois at Urbana-Champaign_](https://illinois.edu/), December 2025
+  - Graduated with a concentration in Algorithms and Optimization, GPA: 3.84/4.00
+- **BS in Applied Mathematics and Statistics** @ _University of Illinois at Urbana-Champaign_, December 2023
   - Highest Distinction for both majors, GPA: 3.81/4.00
 - Coursework for [Mathematics](https://rishab-t0910.github.io/website/courses/math) and [Statistics](https://rishab-t0910.github.io/website/courses/stats)
 </details>
