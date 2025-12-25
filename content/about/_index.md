@@ -9,7 +9,7 @@ draft: true
 # Hi everyone!
 
 <p align="justify"> 
-I'm Rishab Tirupathi, a recent graduate student studying Applied Mathematics at the University of Illinois at Urbana-Champaign. I am originally from Singapore, where I served in the Singapore Army as a Combat Engineer Officer/Lieutenant. 
+I'm Rishab Tirupathi
 </p>
 
 <details>
